@@ -1,2 +1,2 @@
-# AWS
-This Repo is for AWS work which I have done.
+# AWS-Assignments
+This Repo is for AWS Assignments work which I have done.
